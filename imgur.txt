@@ -1,0 +1,26 @@
+
+POST delete an image
+POST favorite an image
+GET image via ImageHash
+POST update image information (Authed)
+POST update image information (Un-Authed)
+POST image upload
+POST update image information
+GET Album
+GET AlbumImages
+POST Delete first album
+POST create Album
+POST favorite Album
+POST set album images
+POST add images to an album (Un-Authed)
+POST add images to an album (Authed)
+POST Remove Images from an Album (Un-Authed)
+POST Remove Images from an Album (Authed)
+GET Account submissions
+GET Account Gallery Favorites
+POST Share with Community (Image) 
+POST Share with Community (Album)
+
+
+
+
